@@ -1,0 +1,1 @@
+python pupil.py train --dataset=D:\pupil_detection\ai_pupildetection\Mask_RCNN-master\puil_test_im --weights=coco
